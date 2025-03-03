@@ -16,4 +16,4 @@
 [![](https://visitcount.itsvg.in/api?id=Karol Marcela Cotame&icon=10&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![Spotify recently played](https://open.spotify.com/user/31e6mxmptsv2eh3uh3fzpw24qqxe?si=s9MPZUMkRY-V5BoqLQutqA)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31e6mxmptsv2eh3uh3fzpw24qqxe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31e6mxmptsv2eh3uh3fzpw24qqxe&redirect=true)
