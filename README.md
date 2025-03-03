@@ -16,3 +16,4 @@
 [![](https://visitcount.itsvg.in/api?id=Karol Marcela Cotame&icon=10&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/jeffreyca16)
