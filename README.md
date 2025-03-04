@@ -15,20 +15,16 @@
 
 ---
 
-## 📊 Mis Hobbies:
-```mermaid
-graph TD;
-  A[Hobbies] --> B[📖 Leer];
-  A --> C[🎧 Escuchar Música];
-  A --> D[👻 Terror];
-  A --> E[📺 Ver Series];
-  A --> F[🍝 Comer Pasta];
-  style A fill:#ff66b2,stroke:#000,stroke-width:2px;
-  style B fill:#c299ff,stroke:#000,stroke-width:2px;
-  style C fill:#99ccff,stroke:#000,stroke-width:2px;
-  style D fill:#ffb3ff,stroke:#000,stroke-width:2px;
-  style E fill:#ffcc99,stroke:#000,stroke-width:2px;
-  style F fill:#b3e6ff,stroke:#000,stroke-width:2px;
+
+## 🎨 Mis Hobbies:
+<div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" width="100" alt="Leer" title="Leer">
+  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721039.png" width="100" alt="Música" title="Escuchar Música">
+  <img src="https://cdn-icons-png.flaticon.com/512/4171/4171840.png" width="100" alt="Terror" title="Me gusta el terror">
+  <img src="https://cdn-icons-png.flaticon.com/512/3159/3159603.png" width="100" alt="Series" title="Ver Series">
+  <img src="https://cdn-icons-png.flaticon.com/512/3075/3075977.png" width="100" alt="Pasta" title="Me encanta la pasta">
+</div>
+
 ```
 
 Puedes editar esta gráfica para reflejar mejor tus intereses cambiando los nodos y conexiones.
