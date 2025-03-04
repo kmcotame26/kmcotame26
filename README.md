@@ -16,7 +16,7 @@
 ---
 
 
-## 🎨 Mis Hobbies:
+## 🎨 **Mis Hobbies:**<br><span style="font-family: 'Adventure', sans-serif; font-weight: bold;">
 <div align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" width="100" alt="Leer" title="Leer">
   <img src="https://cdn-icons-png.flaticon.com/512/2721/2721039.png" width="100" alt="Música" title="Escuchar Música">
