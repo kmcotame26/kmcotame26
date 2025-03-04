@@ -1,4 +1,4 @@
-<div align="center" style="background-image: url('https://source.unsplash.com/1600x900/?technology,coding'); padding: 20px; border-radius: 10px;">
+<div align="center" style="background-image: url('https://starkcloud.com/wp-content/uploads/2024/12/La-tecnologia-del-futuro-5-avances-que-cambiaran-el-mundo-2000x1200-1.jpg'); padding: 20px; border-radius: 10px;">
   <img src="https://source.unsplash.com/1600x900/?software,developer" alt="Software Development" width="100%">
   <h1>Karol Marcela Cotame Garcés</h1>
   <p>Estudiante de Ingeniería de Sistemas | Desarrollo de Software | Ciberseguridad</p>
@@ -58,4 +58,5 @@ Puedes editar esta gráfica para reflejar mejor tus intereses cambiando los nodo
 [![](https://visitcount.itsvg.in/api?id=KarolMarcelaCotame&icon=10&color=10)](https://visitcount.itsvg.in)
 
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31e6mxmptsv2eh3uh3fzpw24qqxe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31e6mxmptsv2eh3uh3fzpw24qqxe&redirect=true)
+
 
