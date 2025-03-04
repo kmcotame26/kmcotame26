@@ -18,11 +18,17 @@
 ## 📊 Mis Hobbies:
 ```mermaid
 graph TD;
-  A[Hobbies] --> B[Leer];
-  A --> C[Escuchar Música];
-  A --> D[Terror];
-  A --> E[Ver Series];
-  A --> F[Comer Pasta];
+  A[Hobbies] --> B[📖 Leer];
+  A --> C[🎧 Escuchar Música];
+  A --> D[👻 Terror];
+  A --> E[📺 Ver Series];
+  A --> F[🍝 Comer Pasta];
+  style A fill:#ff66b2,stroke:#000,stroke-width:2px;
+  style B fill:#c299ff,stroke:#000,stroke-width:2px;
+  style C fill:#99ccff,stroke:#000,stroke-width:2px;
+  style D fill:#ffb3ff,stroke:#000,stroke-width:2px;
+  style E fill:#ffcc99,stroke:#000,stroke-width:2px;
+  style F fill:#b3e6ff,stroke:#000,stroke-width:2px;
 ```
 
 Puedes editar esta gráfica para reflejar mejor tus intereses cambiando los nodos y conexiones.
