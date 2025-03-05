@@ -40,3 +40,10 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31e6mxmptsv2eh3uh3fzpw24qqxe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31e6mxmptsv2eh3uh3fzpw24qqxe&redirect=true)
+
+
+
+<div align="center">
+  <img src="https://source.unsplash.com/400x300/?technology,coding" alt="Software Engineering" width="300">
+  <p><strong>Desarrollo de Software:</strong> Es una disciplina clave en la ingeniería de sistemas que permite crear, diseñar y mantener aplicaciones y sistemas informáticos. En constante evolución, combina creatividad y lógica para resolver problemas del mundo real.</p>
+</div>
