@@ -18,11 +18,10 @@
 
 ## 🎨 **Mis Hobbies:**<br><span style="font-family: 'Adventure', sans-serif; font-weight: bold;">
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" width="100" alt="Leer" title="Leer">
-  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721039.png" width="100" alt="Música" title="Escuchar Música">
-  <img src="https://cdn-icons-png.flaticon.com/512/4171/4171840.png" width="100" alt="Terror" title="Me gusta el terror">
-  <img src="https://cdn-icons-png.flaticon.com/512/3159/3159603.png" width="100" alt="Series" title="Ver Series">
-  <img src="https://cdn-icons-png.flaticon.com/512/3075/3075977.png" width="100" alt="Pasta" title="Me encanta la pasta">
+  <img src="https://cdn-icons-png.flaticon.com/512/616/616554.png" width="100" alt="Mascotas" title="Mascotas">
+  <img src="https://cdn-icons-png.flaticon.com/512/616/616489.png" width="100" alt="Corona" title="Corona">
+  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png" width="100" alt="Computador" title="Computador">
+  <img src="https://cdn-icons-png.flaticon.com/512/616/616493.png" width="100" alt="Estrella" title="Estrella">
 </div>
 
 
