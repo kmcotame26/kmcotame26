@@ -25,6 +25,7 @@
 </div>
 
 
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Karol Marcela Cotame Garces ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karoool_mc) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/cotamegarces ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@karolmarcelacotam8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmcotame26@ucatolica.edu.co) 
 # 💻 Tech Stack:
