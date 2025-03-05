@@ -18,7 +18,7 @@
 
 ## 🎨 **Mis Hobbies:**<br><span style="font-family: 'Adventure', sans-serif; font-weight: bold;">
 <div align="center">
-  <img src="[https://cdn-icons-png.flaticon.com/512/616/616554.png](https://i.pinimg.com/736x/d5/b8/56/d5b85646e59db988d3eb47b1947092c7.jpg)" width="100" alt="sotware" title="Desarrollo">
+  <img src="https://neosystems.es/wp-content/uploads/2022/07/softw3.jpg" width="100" alt="sotware" title="Desarrollo">
   <img src="https://cdn-icons-png.flaticon.com/512/616/616489.png" width="100" alt="Corona" title="Corona">
   <img src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png" width="100" alt="Computador" title="Computador">
   <img src="https://cdn-icons-png.flaticon.com/512/616/616493.png" width="100" alt="Estrella" title="Estrella">
