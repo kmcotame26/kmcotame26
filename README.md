@@ -3,7 +3,9 @@
   
   <h1>Karol Marcela Cotame Garcés</h1>
   <p>Estudiante de Ingeniería de Sistemas | Desarrollo de Software | Ciberseguridad</p>
-  <p><strong>Desarrollo de Software:</strong> Una disciplina clave en la ingeniería de sistemas que permite crear, diseñar y mantener aplicaciones y sistemas informáticos. Es un área en constante evolución que combina creatividad y lógica para resolver problemas del mundo real.</p>
+ <div align="center" style="background-color: #f4f4f4; padding: 20px; border-radius: 10px; width: 80%; margin: auto; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+  <h2>📌 Sobre mi Perfil</h2>
+  <p>Este perfil está diseñado para compartir mi trayectoria en el desarrollo de software y la ingeniería de sistemas. Aquí encontrarás una recopilación de mis proyectos personales y académicos, incluyendo código de clase, ejercicios prácticos y soluciones innovadoras. También comparto mi proceso de aprendizaje en áreas clave como estructuras de datos, ciberseguridad y tecnologías emergentes. Mi objetivo es seguir creciendo como desarrolladora, colaborar en proyectos significativos y conectar con otros apasionados por la tecnología. ¡Bienvenido a mi espacio digital!</p>
 </div>
 ---
 
@@ -50,7 +52,7 @@
   <p><strong>Desarrollo de Software:</strong> Es una disciplina clave en la ingeniería de sistemas que permite crear, diseñar y mantener aplicaciones y sistemas informáticos. En constante evolución, combina creatividad y lógica para resolver problemas del mundo real.</p>
 </div>
 
-<div align="center" style="background-color: #f4f4f4; padding: 20px; border-radius: 10px; width: 80%; margin: auto; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
-  <h2>📌 Sobre mi Perfil</h2>
-  <p>Este perfil está diseñado para compartir mi trayectoria en el desarrollo de software y la ingeniería de sistemas. Aquí encontrarás una recopilación de mis proyectos personales y académicos, incluyendo código de clase, ejercicios prácticos y soluciones innovadoras. También comparto mi proceso de aprendizaje en áreas clave como estructuras de datos, ciberseguridad y tecnologías emergentes. Mi objetivo es seguir creciendo como desarrolladora, colaborar en proyectos significativos y conectar con otros apasionados por la tecnología. ¡Bienvenido a mi espacio digital!</p>
+  <p><strong>Desarrollo de Software:</strong> Una disciplina clave en la ingeniería de sistemas que permite crear, diseñar y mantener aplicaciones y sistemas informáticos. Es un área en constante evolución que combina creatividad y lógica para resolver problemas del mundo real.</p>
 </div>
+
+
