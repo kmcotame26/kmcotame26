@@ -1,6 +1,6 @@
 <div align="center">
- 
-  <img src="https://source.unsplash.com/1600x900/?software,developer" >
+  <img src="https://starkcloud.com/wp-content/uploads/2024/12/La-tecnologia-del-futuro-5-avances-que-cambiaran-el-mundo-2000x1200-1.jpg" alt="Background" width="100%">
+  
   <h1>Karol Marcela Cotame Garcés</h1>
   <p>Estudiante de Ingeniería de Sistemas | Desarrollo de Software | Ciberseguridad</p>
   <p><strong>Desarrollo de Software:</strong> Una disciplina clave en la ingeniería de sistemas que permite crear, diseñar y mantener aplicaciones y sistemas informáticos. Es un área en constante evolución que combina creatividad y lógica para resolver problemas del mundo real.</p>
