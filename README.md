@@ -7,7 +7,7 @@
   <h2>📌 Sobre mi Perfil</h2>
   <p>Este perfil está diseñado para compartir mi trayectoria en el desarrollo de software y la ingeniería de sistemas. Aquí encontrarás una recopilación de mis proyectos personales y académicos, incluyendo código de clase, ejercicios prácticos y soluciones innovadoras. También comparto mi proceso de aprendizaje en áreas clave como estructuras de datos, ciberseguridad y tecnologías emergentes. Mi objetivo es seguir creciendo como desarrolladora, colaborar en proyectos significativos y conectar con otros apasionados por la tecnología. ¡Bienvenido a mi espacio digital!</p>
 </div>
----
+
 
 # 💫 About Me:
 🔭 Actualmente trabajando en proyectos personales y profesionales.<br>
