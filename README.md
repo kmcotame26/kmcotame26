@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://starkcloud.com/wp-content/uploads/2024/12/La-tecnologia-del-futuro-5-avances-que-cambiaran-el-mundo-2000x1200-1.jpg" alt="Background" width="100%">
+  <img src="https://starkcloud.com/wp-content/uploads/2024/12/La-tecnologia-del-futuro-5-avances-que-cambiaran-el-mundo-2000x1200-1.jpg" alt="Background" width="90%">
   
   <h1>Karol Marcela Cotame Garcés</h1>
   <p>Estudiante de Ingeniería de Sistemas | Desarrollo de Software | Ciberseguridad</p>
