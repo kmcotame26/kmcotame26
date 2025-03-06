@@ -10,16 +10,17 @@
 
 
 # 💫 About Me:
+<div align="left">
 🔭 Actualmente trabajando en proyectos personales y profesionales.<br>
 🤝 Buscando colaborar en proyectos interesantes.<br>
 🌱 Aprendiendo sobre desarrollo de software, estructuras de datos y lenguajes de programación.<br>
 📫 Contáctame: karolmarcelacotame@gmail.com
-
+</div>
 ---
 
 
 ## 🎨 **My personal interests:**<br><span style="font-family: 'Adventure', sans-serif; font-weight: bold;">
-<div align="left">
+<div align="center">
   <img src="https://neosystems.es/wp-content/uploads/2022/07/softw3.jpg" width="150" alt="sotware" title="Desarrollo">
   <img src="https://wallpapers.com/images/hd/travel-aesthetic-phone-7tb42jvziupfejam.jpg" width="100" alt="Viaje" title="viaje">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEwo8XoVB9Dv2oRtTnYQBMWAXI5rpMU6c5og&s" width="100" alt="libro" title="libros">
