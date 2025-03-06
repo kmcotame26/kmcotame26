@@ -19,7 +19,7 @@
 
 
 ## 🎨 **My personal interests:**<br><span style="font-family: 'Adventure', sans-serif; font-weight: bold;">
-<div align="center">
+<div align="left">
   <img src="https://neosystems.es/wp-content/uploads/2022/07/softw3.jpg" width="150" alt="sotware" title="Desarrollo">
   <img src="https://wallpapers.com/images/hd/travel-aesthetic-phone-7tb42jvziupfejam.jpg" width="100" alt="Viaje" title="viaje">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEwo8XoVB9Dv2oRtTnYQBMWAXI5rpMU6c5og&s" width="100" alt="libro" title="libros">
@@ -35,12 +35,6 @@
 
 # 📊 GitHub Stats:
 
-![ ] (https://github-readme-stats.vercel.app/api?username=Karol Marcela Cotame&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Karol Marcela Cotame&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karol Marcela Cotame&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Karol Marcela Cotame&icon=10&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31e6mxmptsv2eh3uh3fzpw24qqxe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31e6mxmptsv2eh3uh3fzpw24qqxe&redirect=true)
