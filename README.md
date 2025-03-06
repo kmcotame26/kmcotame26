@@ -44,6 +44,6 @@
 
 
 <div align="center">
-  <img src="https://source.unsplash.com/400x300/?technology,coding" alt="Software Engineering" width="300">
+  <img src="https://i.pinimg.com/736x/50/2f/9e/502f9ee3393fdefacbaf545006fac5f5.jpg" alt="Software Engineering" width="300">
   <p><strong>Desarrollo de Software:</strong> Es una disciplina clave en la ingeniería de sistemas que permite crear, diseñar y mantener aplicaciones y sistemas informáticos. En constante evolución, combina creatividad y lógica para resolver problemas del mundo real.</p>
 </div>
