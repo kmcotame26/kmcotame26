@@ -21,7 +21,7 @@
   <img src="https://neosystems.es/wp-content/uploads/2022/07/softw3.jpg" width="150" alt="sotware" title="Desarrollo">
   <img src="https://wallpapers.com/images/hd/travel-aesthetic-phone-7tb42jvziupfejam.jpg" width="100" alt="Viaje" title="viaje">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEwo8XoVB9Dv2oRtTnYQBMWAXI5rpMU6c5og&s" width="100" alt="libro" title="libros">
-  <img src="https://i.pinimg.com/564x/be/4b/ba/be4bba97027c177ea88b17468e6dfa71.jpg" width="100" alt="Estrella" title="Estrella">
+  <img src="https://i.pinimg.com/564x/be/4b/ba/be4bba97027c177ea88b17468e6dfa71.jpg" width="80" alt="Estrella" title="Estrella">
 </div>
 
 
