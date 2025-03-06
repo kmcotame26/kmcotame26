@@ -18,7 +18,7 @@
 
 ## 🎨 **My personal interests:**<br><span style="font-family: 'Adventure', sans-serif; font-weight: bold;">
 <div align="center">
-  <img src="https://neosystems.es/wp-content/uploads/2022/07/softw3.jpg" width="100" alt="sotware" title="Desarrollo">
+  <img src="https://neosystems.es/wp-content/uploads/2022/07/softw3.jpg" width="150" alt="sotware" title="Desarrollo">
   <img src="https://wallpapers.com/images/hd/travel-aesthetic-phone-7tb42jvziupfejam.jpg" width="100" alt="Viaje" title="viaje">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEwo8XoVB9Dv2oRtTnYQBMWAXI5rpMU6c5og&s" width="100" alt="libro" title="libros">
   <img src="https://cdn-icons-png.flaticon.com/512/616/616493.png" width="100" alt="Estrella" title="Estrella">
